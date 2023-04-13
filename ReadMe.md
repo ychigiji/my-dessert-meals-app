@@ -16,8 +16,9 @@ My Meals App is an iOS application that helps users discover and explore various
 ## Installation
 
 1. Clone the repository:
-git clone https://github.com/yourusername/my-meals-app.git
-2. Open the project in Xcode: open my-meals-app/MyMealsApp.xcodeproj
+`git clone https://github.com/ychigiji/my-dessert-meals-app.git`
+2. Open the Xcode project by running this command in the terminal: `open my-dessert-meals-app/myMealsApp.xcodeproj` or running `myMealsApp.xcodeproj` inside Xcode 
+
 3. Build and run the app on an iOS simulator or device.
 
 ## Usage
